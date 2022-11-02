@@ -4,7 +4,7 @@ Flowchart menghitung luas dan keliling lingkaran
 ![](gambar/Flowchart.jpg)
 
 Langkah - langkah membuat program menghitung luas dan keliling lingkaran
-![](gambar/Screenshot%202022-11-02%20073824%20-%20Copy.png)
+![](gambar/Screenshot%202022-11-02%20091640.png)
 
 
 1.Memasukan nilai Jari-jari
